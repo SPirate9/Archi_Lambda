@@ -18,6 +18,12 @@ Ce projet simule une architecture Lambda locale pour traiter des logs de connexi
 - Apache Spark (avec PySpark)
 - Kafka (Docker recommandé)
 
+Installe les dépendances Python nécessaires :
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Utilisation
 
 ### 1. Générer des logs simulés dans Kafka
