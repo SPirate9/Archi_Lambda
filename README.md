@@ -26,6 +26,10 @@ Ce projet simule une architecture Lambda locale pour traiter des logs de connexi
 python3 src/log_producer.py
 ```
 
+Exemple de logs simulés :
+
+![Exemple logs simulés](capture/user_logs.png)
+
 ### 2. Consommer les logs Kafka et les écrire sur le file system (Question 2)
 
 ```bash
