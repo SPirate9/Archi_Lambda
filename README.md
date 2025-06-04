@@ -58,6 +58,10 @@ PYSPARK_SUBMIT_ARGS="--packages org.apache.iceberg:iceberg-spark-runtime-3.5_2.1
 ```
 Les données seront stockées dans `output/iceberg/warehouse/logs_iceberg`.
 
+Exemple de résultat lors de la lecture de la table Iceberg :
+
+![Lecture table Iceberg](capture/capture_iceberg.png)
+
 ---
 
 **Ce projet illustre la Lambda Architecture avec des outils big data modernes, en local.**
