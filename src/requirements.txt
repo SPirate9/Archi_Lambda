@@ -1,0 +1,7 @@
+apache-spark
+pyspark
+kafka-python
+pandas
+delta-spark
+pyarrow
+numpy
